@@ -7,7 +7,7 @@ It is highly recommended that people check out rcmalli's github here to get the 
 Instead of comparing two pictures of two people, we can get the mean of each person's face features from multiple images, in which way would provide
 more accurate data of that person's face. 
 
-To pretrain more faces, just insert a folder with those people's names and in those folder include the images of their faces and run "retrainfaces.py". 
+To pretrain more faces, in "need_training" just insert a folder with those people's names and in those folder include the images of their faces and run "retrainfaces.py". 
 Afterwards, you should remove the image folder to avoid repetition (which would cause a lot of pretraining time.)
 "has_trained" folder is where you can view some of the images that I had included for testing. 
 
